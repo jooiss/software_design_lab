@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- 1분반 -->
+    <!-- 0265D6294323272B5BE39E52F9F3BD64B4E848B3A0CEF830E34D43D7E47F6EC0 -->
+    <!-- 2분반 -->
+    <!-- 4E58D93839E13A13F3E72BD1481339B918F9E305AAA60B5D74022F14500A8A0A -->
+    <!-- 3분반 -->
+    <!-- B27A4E4A6F591574C780A606D8455FA4FCE607425B1DD6D5FD0CC7AF29E04BAC -->
+    <!-- 4분반 -->
+    <!-- EFAEED644737D4DE3FC5D693499671CCD3DB44A183E863DC8591B867199A2CE6 -->
+</resources>

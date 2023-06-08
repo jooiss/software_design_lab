@@ -1,0 +1,54 @@
+<2주차. 코틀린 문법(기초)>
+2_2 윤년
+2_3 사칙연산
+
+<3주차. 코틀린 문법(중급)>
+3_2 맥주&와인
+3_3 Upper case로 변경
+3_4 음식자판기
+
+<4주차. 뷰와 위젯>
+4_4 계산기
+4_5 버튼터치로 배경색 변경하기
+4_6 버튼이 순차적으로 활성화
+4_7 갤러리 만들기
+4_8 계산기 확장
+
+<5주차. 레이아웃>
+5_1, 2 LinearLayout 기반 View 배치 (선형적)
+5_3 RelativeLayout 기반 View 배치 (상대적)
+5_4 FramLayout 기반 View 배치 (겹치는 거)
+5_5 GridLayout 기반 View 배치 (표처럼)
+5_6 키패드 화면
+5_7 카카오톡 채팅 목록구현
+
+<6주차. 액티비티와 인텐트>
+6_1, 2 양방향 Activity
+6_3 연락처 만들기
+6_4 자기소개서 만들기
+
+<7주차. 프래그먼트와 뷰페이저>
+7_1 프래그먼트
+7_2 RecyclerView
+7_3 뷰페이저 구현 (RecyclerView 사용)
+7_4 드로어 구현
+7_5 예제 1~4 통합 구현
+[Activity]
+MainActivity => Drawer, ViewPager
+MyAdapter -> RecyclerView 연결 (item + view)
+MyPagerAdapter -> Fragment 출력 View랑 RecyclerView 연결해줌 (ViewPager Adapter 역할)
+MainFragment -> Fragment 추가, 삭제
+OneFragment -> Fragment 버튼 누르면 View 나오던 출력 부분
+SubFragment -> RecyclerView 출력 부분
+[Layout]
+activity_main => 전체 DrawerLayout, Drawer 출력됐을 때 배경, ViewPager
+fragment_main -> Fragment 버튼, FrameLayout (Fragment 출력될 부분) ,전체 DrawerLayout, Drawer 출력됐을 때 배경 (ViewPager의 첫번째 화면)
+fragment_sub -> RecyclerView 전체 출력 부분
+fragment_bind -> Fragment 버튼 눌렀을 때 나올 배경
+item_main -> Recycler item 부분
+item_pager -> FrameLayout (ViewPager를 위한), 전체 DrawerLayout, Drawer 출력됐을 때 배경
+
+<13주차. 이미지 분류 앱 구현>
+13_1 DrawActivity를 활용한 숫자 이미지 분류 앱 구현
+13_2 디바이스 이미지 분류 앱 구현
+13_3 FashionMnist 이미지 분류 앱 구현
